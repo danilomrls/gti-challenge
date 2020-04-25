@@ -25,8 +25,23 @@ header {
     background-repeat: no-repeat;
 }
 
+.servicos{
+    background-color: #C41933 !important;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
 .servicos img{
     height: 100px;
-    width: auto;
-    
+    width: auto;    
+}
+
+.bg-secondary{
+    background-color: #F8F9FA !important;
+    padding-top: 40px;
+    padding-bottom: 25px;
+}
+
+.portifolio img{
+    height: 100px;
+    width: auto; 
 }
