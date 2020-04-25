@@ -55,7 +55,7 @@ header {
 .sobre{
     padding-top: 50px;
     padding-bottom: 70px;
-    font-size: 20px;
+    font-size: 17px;
 }
 .sobre img{
     height: 130px;
@@ -79,4 +79,14 @@ header {
     width: auto;
     margin-bottom: 30px;
     margin-top: 5px;
+}
+
+.parceiros{
+    padding-bottom: 50px;
+}
+.parceiros img{
+    height: 50px;
+    width: auto;
+    margin-bottom: 30px;
+    margin-top: 15px;
 }
