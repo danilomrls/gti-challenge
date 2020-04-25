@@ -1,3 +1,32 @@
 body{
     font-family: 'Roboto';
 }
+.navbar{
+    background-color: rgb(9, 17, 29) !important;
+}
+
+.navbar-brand:hover {
+    color: firebrick !important;
+}
+
+.nav-item:hover{
+    color: firebrick !important;
+}
+
+.navbar-toggler{
+    background-color: firebrick;
+    border: none;
+}
+
+header {
+    background-image: url(../images/header3.jpg);
+    background-size: cover;    
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+
+.servicos img{
+    height: 100px;
+    width: auto;
+    
+}
