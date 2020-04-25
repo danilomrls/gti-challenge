@@ -24,6 +24,7 @@ header {
     padding-top: 150px;
     padding-bottom: 100px;    
 }
+
 .btn{
     background-color: #C41933 !important;
     border: 0;
@@ -31,8 +32,9 @@ header {
 
 .servicos{
     background-color: #C41933 !important;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    font-size: 20px;
 }
 .servicos img{
     height: 100px;
@@ -41,11 +43,25 @@ header {
 
 .bg-secondary{
     background-color: #F8F9FA !important;
-    padding-top: 40px;
+    padding-top: 50px;
     padding-bottom: 25px;
 }
 
 .portfolio img{
     height: 100px;
     width: auto; 
+}
+
+.sobre{
+    padding-top: 50px;
+    padding-bottom: 70px;
+    font-size: 20px;
+}
+.sobre img{
+    height: 130px;
+    width: auto;
+    background-color: white;
+}
+.bg-dark{
+    background-color:  rgb(9, 17, 29) !important;
 }
