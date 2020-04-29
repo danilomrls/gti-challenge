@@ -30,13 +30,13 @@ header {
     border: 0;
 }
 
-.servicos{
+#servicos{
     background-color: #C41933 !important;
     padding-top: 35px;
     padding-bottom: 35px;
     font-size: 20px;
 }
-.servicos img{
+#servicos img{
     height: 100px;
     width: auto;    
 }
@@ -47,17 +47,17 @@ header {
     padding-bottom: 25px;
 }
 
-.portfolio img{
+#portfolio img{
     height: 100px;
     width: auto; 
 }
 
-.sobre{
+#sobre{
     padding-top: 50px;
     padding-bottom: 70px;
     font-size: 17px;
 }
-.sobre img{
+#sobre img{
     height: 130px;
     width: auto;
     background-color: white;
@@ -66,11 +66,11 @@ header {
     background-color:  rgb(9, 17, 29) !important;
 }
 
-.equipe img{
+#equipe img{
     height: 200px;
     width: auto;    
 }
-.equipe{
+#equipe{
     background-color: #C41933 !important;    
 }
 
@@ -81,16 +81,17 @@ header {
     margin-top: 5px;
 }
 
-.parceiros{
+#parceiros{
     padding-bottom: 50px;
 }
-.parceiros img{
+
+#parceiros img{
     height: 50px;
     width: auto;
     margin-bottom: 30px;
     margin-top: 15px;
 }
 
-#contato{
-    
+#rodape{
+    background-color: #C41933 !important;    
 }
