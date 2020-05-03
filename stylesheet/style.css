@@ -2,14 +2,16 @@ body{
     font-family: 'Roboto';
 }
 .navbar{
-    background-color: rgb(9, 17, 29) !important;
+    background-color: rgb(9, 17, 29) !important;    
 }
-
-
 
 .nav-item:hover{
     color: #C41933 !important;
 }
+
+html {
+    scroll-behavior: smooth;
+  }  
 
 .navbar-toggler{
     background-color: #C41933;
